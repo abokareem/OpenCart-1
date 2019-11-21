@@ -6,6 +6,7 @@ echo "Username (eg. database name)?"
 read USERNAME
 echo "Updating OS................."
 sleep 2;
+sudo apt upgrade --fix-broken
 sudo apt-get update
 
 echo "Installing Nginx"
