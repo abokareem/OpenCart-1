@@ -15,4 +15,4 @@ This LEMP stack is that fastest way to start running OpenCart on your server. Us
 
 > OpenCart (updated)
 
-`wget -qO oc-u18-04 run.kloudboy.com/oc-u18-04 && sudo bash oc-u18-04`
+`wget -qO oc-u18-04 https://raw.githubusercontent.com/abokareem/OpenCart-1/master/oc-u18.04-install.sh && sudo bash oc-u18-04`
